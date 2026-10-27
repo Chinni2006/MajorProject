@@ -1,0 +1,7 @@
+{
+  "name": "credixa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI resume coach, live job matching agent, and resume integrity tools",
+  "scripts": { "start": "node backend/server.js" }
+}
